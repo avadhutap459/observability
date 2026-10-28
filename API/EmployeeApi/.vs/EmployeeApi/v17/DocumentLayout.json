@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Observability\\API\\EmployeeApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|e:\\observability\\api\\employeeapi\\employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|e:\\observability\\api\\employeeapi\\employeeapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|e:\\observability\\api\\employeeapi\\employeeapi\\services\\telemetryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\services\\telemetryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|e:\\observability\\api\\employeeapi\\employeeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|e:\\observability\\api\\employeeapi\\employeeapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|e:\\observability\\api\\employeeapi\\employeeapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TelemetryService.cs",
+              "DocumentMoniker": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\Services\\TelemetryService.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Services\\TelemetryService.cs",
+              "ToolTip": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\Services\\TelemetryService.cs",
+              "RelativeToolTip": "EmployeeApi\\Services\\TelemetryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T01:59:11.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Program.cs",
+              "ToolTip": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\Program.cs",
+              "RelativeToolTip": "EmployeeApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T19:20:36.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeApi\\appsettings.json",
+              "ToolTip": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\appsettings.json",
+              "RelativeToolTip": "EmployeeApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-27T19:20:07.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Controllers\\EmployeesController.cs",
+              "ToolTip": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeApi\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T19:19:19.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EmployeeApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T19:19:00.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Models\\Employee.cs",
+              "ToolTip": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeApi\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T19:18:49.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
